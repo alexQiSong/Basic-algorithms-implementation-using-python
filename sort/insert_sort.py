@@ -1,3 +1,7 @@
+#############################################################
+# By Qi Song
+# 05/23/17
+#############################################################
 
 # This function implements the insert sort algorithm
 # by ascending order
@@ -24,5 +28,6 @@ def insert_sort(seq):
 
     return seq
 
+# One test case
 seq = [4,5,1,5,2,8,1,3,1,3,90,11]
 print insert_sort(seq)
