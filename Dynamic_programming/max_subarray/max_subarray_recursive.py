@@ -1,3 +1,9 @@
+#############################################################
+# By Qi Song
+# 05/25/17
+#############################################################
+
+#------------------------------------------------------------
 # This is the function for finding the maximum subarray
 # crossing the mid point
 def find_max_crossing_subarray(array,left,right,mid):
@@ -27,6 +33,7 @@ def find_max_crossing_subarray(array,left,right,mid):
 
     return [max_left_pos,max_right_pos,max_left_sum+max_right_sum]
 
+#------------------------------------------------------------------
 # Function for recursively finding the max subarray
 def find_max_subarray_recursive(array,left,right):
 
@@ -56,6 +63,7 @@ def find_max_subarray_recursive(array,left,right):
 
         return[low_values[idx],high_values[idx],max_values[idx]]
 
+#---------------------------------------------------------------------
 # A wrapper function
 def find_max_subarray_dp(array):
     return find_max_subarray_recursive(array,0,len(array)-1)
