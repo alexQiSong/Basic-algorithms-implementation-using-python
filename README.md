@@ -3,5 +3,6 @@ This repository illustrates my own implementation of some basic algorithms using
 ## Sorting algorithms
 * insert sort
 * merge sort
+* Heap sort
 ## Dynamic programming
 * maximum subarray
