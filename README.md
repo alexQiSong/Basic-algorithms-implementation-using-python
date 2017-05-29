@@ -4,5 +4,6 @@ This repository illustrates my own implementation of some basic algorithms using
 * insert sort
 * merge sort
 * Heap sort
+* Quick sort
 ## Dynamic programming
 * maximum subarray
