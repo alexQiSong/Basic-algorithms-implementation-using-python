@@ -1,5 +1,5 @@
 # Basic-algorithms-implementation-using-python
-This repository illustrates my own implementation of some basic algorithms using python
+This repository is for my own python implementation for some basic algorithms. All the algorithms were implemented following the procedures introduced in CLRS (Introduction to Algorithm) book. My implementation might not be perfect. But, hey! :)  
 ## Sorting algorithms
 * insert sort
 * merge sort
