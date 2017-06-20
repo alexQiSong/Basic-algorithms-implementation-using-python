@@ -8,3 +8,6 @@ This repository is for my own python implementation for some basic algorithms. A
 * Radix & counting sort (counting sort is used as a subroutine of radix sort)
 ## Dynamic programming
 * maximum subarray
+## Tree algorithm
+* Breadth first search (BFS)
+* Depth first search (DFS)
